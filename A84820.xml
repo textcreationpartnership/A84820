@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is to all officers and souldiers of the armies in England, Scotland, and Ireland; and to all magistrates, and them in authority in these nations, and the dominions thereunto appertaining for them to read.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84820</idno>
+            <idno type="STC">Wing F1935</idno>
+            <idno type="STC">Thomason E912_5</idno>
+            <idno type="STC">ESTC R202176</idno>
+            <idno type="EEBO-CITATION">99862569</idno>
+            <idno type="PROQUEST">99862569</idno>
+            <idno type="VID">168455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168455)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E912[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is to all officers and souldiers of the armies in England, Scotland, and Ireland; and to all magistrates, and them in authority in these nations, and the dominions thereunto appertaining for them to read.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[1], 8 [i.e. 7] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons at the Bull and Mouth neer Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.F., i.e. George Fox.</note>
+                  <note>Even page numbers on rectos; p. 7 misnumbered 8.</note>
+                  <note>Annotations on Thomason copy: "May 29" on title page; "ox" after 'G.F.' on last page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Quaker authors --  Early works to 1800.</term>
+               <term>Civil service ethics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168455:1" rendition="simple:additions"/>
+            <p>This is to all Officers and Souldiers OF THE ARMIES IN <hi>England, Scotland,</hi> and <hi>Ireland;</hi> AND TO ALL MAGISTRATES, And them in Authority in theſe Nations, and the Dominions thereunto appertaining for them to read.</p>
+            <p>
+               <add>May 29</add> 
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> neer <hi>Alderſgate.</hi> 1657</p>
+         </div>
+      </front>
+      <body>
+         <div type="exhortation">
+            <pb n="1" facs="tcp:168455:2"/>
+            <head>This is to all <hi>OFFICERS</hi> &amp; <hi>SO<g ref="char:V">Ʋ</g>LDIERS</hi> OF THE ARMIES IN <hi>England, Scotland,</hi> &amp; <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE word of the Lord to all you Souldiers, Governors, and Rulers, to rule in Power and Love, to that in your conſci<g ref="char:EOLhyphen"/>ences I ſpeak, which is of God, that your minds may be guided up to God, that you may ſee what you muſt rule o<g ref="char:EOLhyphen"/>ver; for all you dwelling in the Light which comes from Jeſus, it leads all to Chriſts Government, and it leads from the world, and it leads from under the occaſion of the war; from whence doth the wars ariſe but from the luſts; and ſo you that follow the luſts, go from the light, you go from the true Sword of Juſtice, and ſo in the light ye come to be condemned; and let nothing rule in you but the light, that with it Chriſt Jeſus you may all come to ſee, and him rule and reign; &amp; ye who would not have him rule, ye are for the Sword, and muſt be ſlain; And all ſuch as reſpect perſons, contrary to the Light doth act, and the light there doth not reign, and the Law of God is not hearkened unto, which is upon all reſpectors of perſons; but the light love, to lead you to the Law of God which is perfect, according to that of God in every ones conſcience, which is Equity, and the Law here is Equity, and judges that
+<pb n="2" facs="tcp:168455:2"/>which is not Equity, and cuts down, and cuts out that which is not Equity, and that which is contrary to that which is pure in every ones conſcience, and ſo the Land comes to be ſwept of evil doers, and the refuge of lyes ta<g ref="char:EOLhyphen"/>ken away; and all you Souldiers know a Souldiers place, and ſee that ye be Souldiers qualified, that ye do accuſe no man falſly, that ye do violence to no man, and that ye be content with your wages; ſo then you will ſee what the Sword is to, and is to be laid upon all that do violence, and all the falſe accuſers. And you that are Governors muſt be no falſe accuſers, nor do vio<g ref="char:EOLhyphen"/>lence to any man, but ruled with that of God in your conſciences, to exer<g ref="char:EOLhyphen"/>ciſe toward God and towards man, againſt all violence, and againſt all falſe accuſations; ſee that you, and none of you be ſuch; and then let your Sword be laid upon ſuch, and then ſet your Souldiers in their places, and then let them go forth, and let them have their wages; for who are falſe accuſers, and do violence, are out of the natural affection, and have not affection to Nature, but would deſtroy it in his own particular, and then in the general through the raſh headyneſs, upon ſuch is the Sword laid. So to you this is the word of the Lord, that ye may come to a pure and right underſtanding, to know that which leads Nature out of its courſe, and hath not affection to Nature, upon ſuch is the ſword laid, and is to be ruled with the Sword, and kept down; and ſee that none of you be ſuch. To that in your conſciences I ſpeak, be not violent doers, falſe accuſers, drunkards; nor be prophane nor looſe Souldiers, Governors, nor Rulers, if you be, that in your conſcien<g ref="char:EOLhyphen"/>ces will witneſs me, that you are all for the ſword of the Lord God Al<g ref="char:EOLhyphen"/>mighty, and not juſtifiable in his ſight; to the light in all your conſciences I ſpeak, that with it you may all ſee your ſelves, and what you have done, and how you have ſpent your time, and how you do do ſpend your time, the end of your Souldiery, the end of your war, what the war is to, and what the ſword is laid upon, and what it is to keep in order, for all your Souldiers, Governors and Rulers, which contrary to the light do act, which comes from Chriſt Jeſus, which light is in you; ye are to be ruled with the ſword of the Lord God: To you this is the word of God; for the Law of God is perfect, and anſwers that of God in every one in the world; and he that hath the ſword, that is a terror to the evil doer, he an<g ref="char:EOLhyphen"/>ſwereth with the ſword that of God in every one that cometh into the world, which if he do evil, he acts contrary to that of God in him, which the ſword takes hold upon him that doth evil; and he that doth evil, acts contra<g ref="char:EOLhyphen"/>ry to the Juſt, ſo the Sword of Juſtice takes hold upon him; now this is that which ſhall ſtand over the whole world, (not over a Nation only) and doth not regard cuſtoms of Nations, but it ſhall anſwer that of God in every man that comes into the world; ſo he that anſwereth that of God in every one that comes into the world, he muſt be juſt, he muſt not be a falſe accu<g ref="char:EOLhyphen"/>ſer, that is not juſt, that is not true; and he muſt not do violence, that that bears the ſword for violence is not juſt; for if he doth, this will take hold up<g ref="char:EOLhyphen"/>on him, the law of God which is juſt ſhall take hold of him; and this ſhall anſwer that of God in every one.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="exhortation">
+            <pb n="3" facs="tcp:168455:3"/>
+            <head>To all the Magiſtrates and them in Authority in theſe Nations, and the Domini<g ref="char:EOLhyphen"/>ons thereunto appertaining, for them to read this.</head>
+            <p>YE Magiſtrates, ye Rulers, who have known the power of the Lord in giving of ye Dominion, be low, and keep low, leaſt you abuſe the Pow<g ref="char:EOLhyphen"/>er that ye once taſted of; and wait for wiſdom, the wiſdom of God, that in it, and with it ye may be ordered to the glory of God, and not abuſe his power; for the mighty day of the Lord hath been ſeen in this Age, and hath brought forth much to his glory, and given you victory over much, and thrown down much, and ſet you above much; and them that the power of the Lord hath thrown down, of the power of the Lord they may take no<g ref="char:EOLhyphen"/>tice. Now ye that have known this power, the power of the Lord, be not lifted up, leaſt the ſame power throw you down, that hath thrown down thoſe before you; for the ſame power throws down that which is exalted, as it did before. Be not high minded, but fear and be watchful unto Prayer, leſt ye run into wantonneſs, and cry <hi>Aha,</hi> your own hand hath done this, and this I have done, and the other I have done; and ſo boaſt, and take glory to your ſelves, and rob God of his honor, and honor one another, ſuch God will ſtain their glory and honor, and deface it, and bring it into contempt, and overthrow it with the ſame power that he overthrew his Enemies be<g ref="char:EOLhyphen"/>fore, the ſame power overthrows that, who are joyned together, a Harlot, and make you to know that he reigns the Ruler of Heaven and Earth, the Creator of all things, whoſe power is dreadful in overturning, ſhaking down, and removing, and defacing, and taking the glory to himſelf, and the honor to whom it belongs, and the fear to whom it belongs. Therefore boaſt not your ſelves none, but be watchful and meek, and learn the true humility, which goeth before the honor, and the true patience, which ob<g ref="char:EOLhyphen"/>tains the Crown of eternal life, and the immortal life, through the pati<g ref="char:EOLhyphen"/>ence received.</p>
+            <p>Now in Cauſes of Judgements in Controverſies, with patience hear each party, the Accuſed, the Accuſer; the Offended, and the Offendor, with meekneſs and humbleneſs hear; that goes before the Honor; for it is an ho<g ref="char:EOLhyphen"/>nor for a King to find out a matter, and to ſearch it out. And let not there be an eye among you, nor in any of you, nor an ear that will reſpect per<g ref="char:EOLhyphen"/>ſons, or have perſons reſpected; for in ſuch cauſes there will be a will that will be brickle, earthly, changeable, wanting the patience to judge rightly; ſelfiſh, and ſtubbornneſe, and prejudice, and ſidings to parties more then to Truth; and right judgement is blinded in theſe, and the true Meaſure is wanting, and the true Weight to weigh withall, and to meaſure withall. Whileſt there is prejudice in the Officer, Judge, Juſtice, or Ruler, whileſt he is paſſionate, out of the humbleneſs and humility, out of the mercy, out of the patience, in the wilfulneſs, in the ſtubbornneſs, ſturdines, high min<g ref="char:EOLhyphen"/>dedneſs, minding the perſon, reſpecting, under this doth the juſt groan; un<g ref="char:EOLhyphen"/>der this doth the juſt feel the weight, which feels the want of the true mea<g ref="char:EOLhyphen"/>ſure, and cryes for the true meaſure, and cryes for the true weight, and puts
+<pb n="4" facs="tcp:168455:3"/>up Petitions to the Lord, who hears and anſwers the cryes of the oppreſſed, and removeth the Oppreſſor, and brings him to ſhame and contempt, though for a time he hath a day of honor and glory; but ſuch the Lord of glory their dayes doth ſhorten often in turning them out, and cutting them off, bringing his righteous judgements upon them who rightly hath not judged; ſuch God meaſures their wayes, God gives to them meaſure and juſt weight according to their works.</p>
+            <p>Therefore all ye Rulers of the earth be awakened with the meaſure of God, be awakened to righteouſneſs, and to the meaſure of God in you all take heed, to guide your minds up to God, whereby ye may ſtand all in Gods Counſel, to receive that from God which ſhall never be ſhaken, whereby with it you may anſwer that of God in every man, and be to the Lord a praiſe, and a terror to the Nations about you; for true Judgment and Juſtice being ſet up, and being in the hands of ſuch that hath the true meaſure to reach that of God in every man, that of God in every man ſhal anſwer his meaſure; and having the true weight to weigh things aright, that of God in every man ſhall witneſs his weight to be juſt and true, and not too light, and his meaſure not too ſhort; he gives to every man his due, and every m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his weight; here is the equity, here the righteous is glad, the righteous re<g ref="char:EOLhyphen"/>joicetth the evil doer, that reigns, which is a terror to it.</p>
+            <p>From the Lord God of Heaven and Earth I am moved to charge all to be meek, to be humble, to be patient, and not to be raſh, nor to be heady, nor to be fierce, but to be gentle, and fear before the Lord God, whereby ye may receive his wiſdom, that in all Countreys where ye come, where ye are Judges, Juſtices, Rulers, and Magiſtrates, ye may be a praiſe in the Coun<g ref="char:EOLhyphen"/>try where ye are, and where ye come, and a good ſavour to the Lord God, anſwering that of God in every man, which will exerciſe your conſcience towards God, and towards man, which is for conſcience ſake, and not for wrath, that all may come ſubject to the Higher Power, (mark) the High<g ref="char:EOLhyphen"/>er Power, which is above that Power which abode not in the truth, but is out of the truth, out of the life, which is the light; and that is the Powers of Darkneſs, and there is the ſpiritual wickedneſs, and there is the Rulers of Darkneſs, out of the truth, which is out of the light that doth enligh<g ref="char:EOLhyphen"/>ten every man that cometh into the world; the light which every man is enlightned withal that cometh into the world, will witneſs to him the high<g ref="char:EOLhyphen"/>er Power, which is a terror to him if he do evil. And ſo ye all knowing and coming into the higher power to which the ſoul muſt be ſubject unto, ye that are come to this, ye are in that that is above the ſpiritual wickedneſſes, that is above the Rulers of darkneſs of this world, ye come to be on top of all the world, in the whole world ye will be a dread and terror to all the world; ye will be the Higher Power, ye will reach over Nations, Tongues, People, Kinreds, and Languages, and ſo ſound a dread and terror over them all; ye which be in the higher Power, higher then the POWERS of DARKNESSE, Higher then the ſpirituall wickedneſſes, higher then all the Heatheniſh gods and Rulers; higher then the Rulers of darkneſs in the higheſt places of the world; this is higher, the higher Pow<g ref="char:EOLhyphen"/>er
+<pb n="5" facs="tcp:168455:4"/>is above the world, and them all, on top of them all, and chains them all, and anſwers that of God in all, the faſhion of it, the luſts of it, which wars againſt the ſoul (mark) which againſt the ſoul wars, which ſoul muſt be ſubject to the higher Power, which higher Power goes againſt the luſts of the world, of the fleſh, that againſt the ſoul wars. Therefore whoſe ſoul ſoever is ſubject to the higher power, above the power of him that abode not in the truth; none of them that be here do the luſts of the Devil, thats out of the truth, but they are in the Power above him, the higher power, which chains, overturns, brings down, brings under, puts down all the pow<g ref="char:EOLhyphen"/>ers of darkneſs, the ſpiritual wickedneſs. Who are in this higher Power, they are in the Throne of God, and they be in that which is honorable, and in that which doth remain; they be in that which limits and ſtops, and ſets bars to that which is out of the higher Power, which comes under the chain, the bridle, the yoke, the gage, the rule, which would deſtroy, devour, tear to pieces; the higher power over that hath Dominion; and all that which wars againſt the ſoul, to which the ſoul muſt be ſubject to, and where this rules there is peace, and the burden is taken off; the innocent rejoiceth, the ſimplicity is glad; the righteous praiſeth God, and magnifies him where this rules; and where this rules, ſuch as be in it, they know the kingdom of the Moſt High tuling in men, and his Dominion which hath no end; and his Scepter of Righteouſneſs, &amp; his Throne is exalted, &amp; the Kingdom where there is no end is known, ſeen, enjoyed; who be in this are in the honorable power, throne, Dominion, which hath no end, which moves, throws down, ſhakes all the contrary; which Power reacheth to the ſeed of God, &amp; to y<hi rend="sup">t</hi> of God in every man; who are here, him comes to know who upholds all things by his Word &amp; Power, &amp; comes under the government of the Lord Jeſus Chriſt, and are the help Magiſtrates for him who hath all Power in Heaven and Earth given to him, whoſe Kindom is now ſet up, and ſetting up, to whom the glory is given; I will not give it to another, ſaith the Lord, but to his Son: And ſuch as are here, they be in the higher power, they ſeek that honor that comes from God only, and honor the Son and the Father; ſuch as receive honor one from another, and honor themſelves, receive Honor of men, be ſuch as be without, the unbelieving, not under Chriſts government.</p>
+            <p>Therefore all wait in the light which Chriſt Jeſus hath inlightned you withal, that with the light you may ſee Chriſt Jeſus, from whence it comes, and receive power from Chriſt, who hath all power in heaven and earth given to him, which if you hate the light, and do not believe in it, which ye are enlightned withall, which Light lets ye ſee (mark) your deeds, whe<g ref="char:EOLhyphen"/>ther they be wrought in God or no; the Light doth let you ſee that comes to Chriſt, him by whom the world was made, before it was made, this light will let you ſee whether your deeds be wrought in God; but hating this light which lets you ſee, it will be your condemnation; ſo ſtop not the ear againſt that which tells ye what ye have been, and tells ye what yee have done, and tells ye what ye have ſaid, and tells ye what ways ye have walk<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:168455:4"/>in, and what actions ye have acted, and what deeds ye have committed; ſtop not the ear againſt that, but let the ear be open to that, leſt ye remain in the unconverted eſtate, the unhealed eſtate in the tranſgreſſion; ſtran<g ref="char:EOLhyphen"/>gers from the life of God, his Covenant of Light, of Life, and peace; Therefore cloſe not the eye which lets you ſee your words, your wayes, your actions; for not cloſing the eye, not ſtopping the ear, the ear open, the eye open, Gods counſel is heard, Gods ſecrets received, out of the tranſgreſſion ye come, and healing ye wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs, and the wiſdom and ſecret of the Lord God, and the renewing of your minde ye will here come to witneſs, &amp; that ſtand and brought up, that brings to ſtand in the counſel of God, and do his will; the eye being uncloſed to that which lets you ſee, and the ear be<g ref="char:EOLhyphen"/>ing unſtopt to that which cries to the Lord in you, the Lords voyce is heard, which keeps ye tender, and from hardneſs of heart. And to you this is the word of the Lord God, and with that ye anſwer that of God in every man: This ſhal ſtand for a witneſs for ever to ye or againſt ye.</p>
+            <p>And ye that have known the power of God, take heed of your getting out of it, and then that nature which is gone out of it, ſets up ſuch in autho<g ref="char:EOLhyphen"/>rity that the power hath thrown down, which are out of it, leſt the Lord God ſweep you both away with his power, who joyn to that which formerly the power of the Lord God hath overthrown, the Oppreſſor which would have reigned, which the Lord hath overthrown, and would not have the Lord to reign, therefore the Lord laid it as the duſt, and as the ground with his pow<g ref="char:EOLhyphen"/>er, therefore keep you in that power, and if any of them come in to repen<g ref="char:EOLhyphen"/>tance, and doth acknowledg the power which hath thrown them down, &amp; renewed and converted, then ye are in unity, then you are in one in that which makes plain the way of the Lord, and laies down mountains, that the Lord alone may be exalted, and his houſe eſtabliſhed on the top of the mountains.</p>
+            <p>And none is worthy to have the name of a Magiſtrate, that is proud, peeviſh, ſelfiſh, crabb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; or that is wilful, or wicked, or is heady, &amp; high<g ref="char:EOLhyphen"/>minded, for the Higher Power is to chain ſuch from their intents &amp; miſchie<g ref="char:EOLhyphen"/>vous ends, that they would do and wrong the innocent with their unrighte<g ref="char:EOLhyphen"/>ousintents; and ſuch as touching judgment are blinde, that be perverſe, &amp; ful of ambition &amp; pride, ſuch forget God, &amp; is not in their thoughts, thoſe feel nor the burden of the oppreſſed, they feel not the burden that the innocent groans under; for ſuch as be there, be in that nature as burdens the juſt in particular, &amp; in the general, before whoſe eyes the fear of God is not, who makes a prcy of the juſt, of whom the Lords eye beholds, &amp; who ſhal be a terror to the evil doer, and a praiſe to them that do well, which they all be that be in the higher power, before whoſe eye is the fear of God, whoſe eye they behold that watcheth over them, the Almighty with whom they have peace, in acting things that are righteous, that of God in every man an<g ref="char:EOLhyphen"/>ſwering.</p>
+            <p>Now as concerning Prieſts and Teachers, who wil not preach without a ſum of money, of whom they look for it of you, &amp; with petitions to you
+<pb n="8" facs="tcp:168455:5" rendition="simple:additions"/>come or ſend, which themſelves have not heard the voyce of the Lord, the word of the Lord, ſuch as comes with petitions, &amp; have not heard the voice of the Lord, nor his word which was in the beginning, are to ſtand by, the Word commands them ſilence, as it was in the days of Jeremiah, and ſuch the higher power ſilenceth that uſe their tongues, whoſe doubts is for out<g ref="char:EOLhyphen"/>ward maintenance, &amp; taking thought for that; ſuch are in the ſtate of the Gentiles, the kingdoms of the world, &amp; ſeeking for that, and not for the Kingdom of God, and the righteouſneſs of it firſt, which the other things follow, if this were found, and a word from the Lord received, and his coun<g ref="char:EOLhyphen"/>ſel ſtood in, people would be turned from their evil ways, there would bee no want of outwards then; but if they be Prieſts of the Readers of the Law to the people, then they muſt have their Pulpit of wood, and a thing made ready for their hands, &amp; boaſt in other mens labours, but this was not the practice of the Apoſtles, but ſuch are excluded out of the Kingdom, the boaſters, and are from their own meaſure, with which they ſhould reach that of God in every man, &amp; ſuch be they who would have their mouths ſtopt, and would ſtop the mouths of them that have the word of the Lord God immediately from his mouth, and ſpeaks his word (by which all things were made) without money or price freely.</p>
+            <p>So as ye all Magiſtrates be kept in the fear of God, &amp; in the higher pow<g ref="char:EOLhyphen"/>er, in the true underſtanding, and the true wiſdom which is pure, gentle, from above, &amp; eaſie to be intreated, it will bring you to the true inſtructi<g ref="char:EOLhyphen"/>ons, and ye being in them it wil bring you to inſtruct all others, where ever ye come, or be; in the wiſdom &amp; ways of God, Peace, Righteouſneſs, and Truth, &amp; Meekneſſe and Patience, whereby you may all come to love as the family of God, and no frowardneſſe or bitterneſſe, but with wiſdome, order and rvle the creatures, by which they were created; for with that muſt all be governed to the glory of the Lord God, the Creator, with the wiſdome by which all things are created.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
